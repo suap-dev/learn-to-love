@@ -1,1 +1,1 @@
-learn-to-love
+Some practice on Lua with Love2D.
